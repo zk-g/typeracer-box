@@ -14,5 +14,5 @@ jobs:
         uses: ./
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_ID: decfe89a5e2ebf8e5153162a3b3f36fb
           TR_USERNAME: ${{ secrets.TR_USERNAME }}
